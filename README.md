@@ -1,2 +1,2 @@
-# stepik
-for stepik
+# ЭТО README
+а еще тут есть текст
